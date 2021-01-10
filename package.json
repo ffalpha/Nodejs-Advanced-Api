@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-advanced-api",
+  "version": "1.0.0",
+  "description": "Devcamp backend API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffalpha/Nodejs-Advanced-Api.git"
+  },
+  "author": "Kalana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ffalpha/Nodejs-Advanced-Api/issues"
+  },
+  "homepage": "https://github.com/ffalpha/Nodejs-Advanced-Api#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
